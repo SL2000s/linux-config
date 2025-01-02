@@ -4,6 +4,6 @@
 [submodule "vscode-config"]
 	path = vscode-config
 	url = git@github.com:SL2000s/vscode-config.git
-[submodule "bash_aliases"]
-	path = bash_aliases
-	url = git@github.com:SL2000s/bash_aliases.git
+[submodule "bash-aliases"]
+	path = bash-aliases
+	url = git@github.com:SL2000s/bash-aliases.git
