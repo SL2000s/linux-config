@@ -7,3 +7,6 @@
 [submodule "bash-aliases"]
 	path = bash-aliases
 	url = git@github.com:SL2000s/bash-aliases.git
+[submodule "emacs-config"]
+	path = emacs-config
+	url = git@github.com:SL2000s/emacs-config.git
